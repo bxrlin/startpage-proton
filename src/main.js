@@ -3,7 +3,7 @@ import { writable } from 'svelte/store'
 
 const defaultConfig = {
 	name: 'bxrlin',
-	location: 'Seattle',
+	location: 'Switzerland',
 	units: 'imperial',
 	apiKey: '',
 	links: [
