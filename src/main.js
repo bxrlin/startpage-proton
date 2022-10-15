@@ -2,7 +2,7 @@ import App from './App.svelte'
 import { writable } from 'svelte/store'
 
 const defaultConfig = {
-	name: 'refactor',
+	name: 'bxrlin',
 	location: 'Seattle',
 	units: 'imperial',
 	apiKey: '',
